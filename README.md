@@ -1,0 +1,1 @@
+A Face Detector using OpenCV is a computer vision application that detects human faces in images or video streams. OpenCV, an open-source computer vision library, provides tools for face detection using pre-trained classifiers like Haar Cascades or deep learning models. The system is widely used in security, biometric authentication, and image processing.
